@@ -1,0 +1,64 @@
+body, div {
+    margin: 0;
+    padding: 0;
+
+}
+.wrapper {
+    width: 1500px;
+    margin: 0 auto
+}
+.icon img {
+width: 50px;
+}
+.opuslogo img {
+    width: 170px;
+}
+.navbar {
+    width: 1500px;
+    margin: -4px -25px -4px -8px;
+}
+.carusel {
+    width: 1500px;
+    margin: 0 auto  
+}
+.w-100 {
+    width: 100%!important;
+}
+.navbar-brand:hover {
+    background-color:#F1648F;
+}
+.nav-link:hover {
+    background-color:#F1648F;
+}
+
+/* container */
+.imgcont img {
+    width: 100px;
+}
+.imgcont h5 {
+    color: gray;
+}
+
+.lenta img{
+    width: 1500px;
+    margin: 0 auto 
+}
+.hero-image {
+    background-color: #cccccc;
+    height: 110px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+
+  .hero-image h1 {
+      text-align: center;
+      color: white;
+  }
+
+ 
+  
+
+
+
